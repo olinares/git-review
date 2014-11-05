@@ -31,7 +31,7 @@
   * < git add file_name.md >
 
 * Commit the contents of the staging area using the -m flag
-  * < your answer here >
+  * < git commit -m "Message about file edits" >
 
 * Commit using the -m flag with a multi-line description
   * < your answer here >

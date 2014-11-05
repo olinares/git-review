@@ -46,7 +46,7 @@
   * < git remote set-url "ssh/http.url" >
 
 * Pull changes from a shared github repo to your local repo
-  * < your answer here >
+  * < git pull remote >
 
 * Show the history of a git repository
   * < your answer here >
